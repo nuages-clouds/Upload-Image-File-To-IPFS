@@ -1,7 +1,6 @@
 # Smart-Contract-Security-And-IPFS
 
 Andrew Starling / 100191710
----------------------------
 
 Connect to IPFS API - Assignment
 
