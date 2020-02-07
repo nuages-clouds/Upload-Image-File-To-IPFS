@@ -1,4 +1,4 @@
-# Smart-Contract-Security-And-IPFS
+# Upload-Image-File-To-IPFS
 
 Andrew Starling / 100191710
 
